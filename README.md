@@ -1,4 +1,4 @@
-# sql-server-samples
+# queries-sql-samples
 
 # SQL Samples Repository
 Este repositório do GitHub contém exemplos de código que demonstram minhas habilidades em SQL. O README que explica como executar e usar a amostra.
